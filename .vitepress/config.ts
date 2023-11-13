@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/community/',
+  base: '/vitepress/',
   title: "community.",
   description: "music, software, discussions, and events about quantum computing and creative practice",
   head: [
